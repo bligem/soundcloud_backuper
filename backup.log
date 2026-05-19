@@ -1,377 +1,0 @@
-nohup: ignoring input
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/yuklij-rib-counter-1
-SoundCloud backup
-  artist : https://soundcloud.com/enilylbmessa
-  output : /home/nxln/Pulpit/soundcloud_backuper/backup/enilylbmessa
-  auth   : cookies from firefox
-
-=== Enumerating /albums (covers albums + EPs + compilations) ===
-Found 103 release(s).
-
-📀 [albums] Damaged Goods vol.103  (11 tracks)
-[soundcloud] enilylbmessa/yuklij-rib-counter-1: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450690: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450690: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450690: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450690: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450690: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450690: Downloading http_mp3 format info JSON
-[info] 2237450690: Downloading 1 format(s): download
-[download] Sleeping 2.94 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/01 - yuklij - rib counter.wav
-[download]   0.0% of   18.18MiB at  Unknown B/s ETA Unknown[download]   0.0% of   18.18MiB at  Unknown B/s ETA Unknown[download]   0.0% of   18.18MiB at    6.75MiB/s ETA 00:02  [download]   0.1% of   18.18MiB at   11.17MiB/s ETA 00:01[download]   0.2% of   18.18MiB at  358.86KiB/s ETA 00:51[download]   0.3% of   18.18MiB at  709.71KiB/s ETA 00:26[download]   0.7% of   18.18MiB at  700.40KiB/s ETA 00:26[download]   1.4% of   18.18MiB at  949.33KiB/s ETA 00:19[download]   2.7% of   18.18MiB at    1.39MiB/s ETA 00:12[download]   5.5% of   18.18MiB at    2.22MiB/s ETA 00:07[download]  11.0% of   18.18MiB at    3.69MiB/s ETA 00:04[download]  22.0% of   18.18MiB at    6.31MiB/s ETA 00:02[download]  44.0% of   18.18MiB at   10.63MiB/s ETA 00:00[download]  66.0% of   18.18MiB at   13.87MiB/s ETA 00:00[download]  88.0% of   18.18MiB at   17.16MiB/s ETA 00:00[download] 100.0% of   18.18MiB at   18.18MiB/s ETA 00:00[download] 100% of   18.18MiB in 00:00:01 at 11.70MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/starsmoke-ok-den-2
-[soundcloud] enilylbmessa/starsmoke-ok-den-2: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450687: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450687: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450687: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450687: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450687: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450687: Downloading http_mp3 format info JSON
-[info] 2237450687: Downloading 1 format(s): download
-[download] Sleeping 3.69 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/02 - starsmoke - ok den.wav
-[download]   0.0% of  105.47MiB at  Unknown B/s ETA Unknown[download]   0.0% of  105.47MiB at  Unknown B/s ETA Unknown[download]   0.0% of  105.47MiB at  Unknown B/s ETA Unknown[download]   0.0% of  105.47MiB at   13.79MiB/s ETA 00:07  [download]   0.0% of  105.47MiB at    3.31MiB/s ETA 00:31[download]   0.1% of  105.47MiB at  634.73KiB/s ETA 02:50[download]   0.1% of  105.47MiB at    1.12MiB/s ETA 01:33[download]   0.2% of  105.47MiB at    1.31MiB/s ETA 01:20[download]   0.5% of  105.47MiB at    1.80MiB/s ETA 00:58[download]   0.9% of  105.47MiB at    2.75MiB/s ETA 00:38[download]   1.9% of  105.47MiB at    4.36MiB/s ETA 00:23[download]   3.8% of  105.47MiB at    7.32MiB/s ETA 00:13[download]   7.6% of  105.47MiB at   12.44MiB/s ETA 00:07[download]  11.4% of  105.47MiB at   16.26MiB/s ETA 00:05[download]  15.2% of  105.47MiB at   19.06MiB/s ETA 00:04[download]  19.0% of  105.47MiB at   21.11MiB/s ETA 00:04[download]  22.8% of  105.47MiB at   23.08MiB/s ETA 00:03[download]  26.5% of  105.47MiB at   24.04MiB/s ETA 00:03[download]  30.3% of  105.47MiB at   24.90MiB/s ETA 00:02[download]  34.1% of  105.47MiB at   26.09MiB/s ETA 00:02[download]  37.9% of  105.47MiB at   27.08MiB/s ETA 00:02[download]  41.7% of  105.47MiB at   28.08MiB/s ETA 00:02[download]  45.5% of  105.47MiB at   28.60MiB/s ETA 00:02[download]  49.3% of  105.47MiB at   26.45MiB/s ETA 00:02[download]  53.1% of  105.47MiB at   27.10MiB/s ETA 00:01[download]  56.9% of  105.47MiB at   27.88MiB/s ETA 00:01[download]  60.7% of  105.47MiB at   28.48MiB/s ETA 00:01[download]  64.5% of  105.47MiB at   28.45MiB/s ETA 00:01[download]  68.3% of  105.47MiB at   28.95MiB/s ETA 00:01[download]  72.1% of  105.47MiB at   26.48MiB/s ETA 00:01[download]  75.9% of  105.47MiB at   26.94MiB/s ETA 00:00[download]  79.6% of  105.47MiB at   27.29MiB/s ETA 00:00[download]  83.4% of  105.47MiB at   27.90MiB/s ETA 00:00[download]  87.2% of  105.47MiB at   28.10MiB/s ETA 00:00[download]  91.0% of  105.47MiB at   28.08MiB/s ETA 00:00[download]  94.8% of  105.47MiB at   28.35MiB/s ETA 00:00[download]  98.6% of  105.47MiB at   28.44MiB/s ETA 00:00[download] 100.0% of  105.47MiB at   28.75MiB/s ETA 00:00[download] 100% of  105.47MiB in 00:00:04 at 23.60MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/rue-engulfed-3
-[soundcloud] enilylbmessa/rue-engulfed-3: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450678: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450678: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450678: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450678: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450678: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450678: Downloading http_mp3 format info JSON
-[info] 2237450678: Downloading 1 format(s): download
-[download] Sleeping 4.74 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/03 - &rue - engulfed.wav
-[download]   0.0% of   87.64MiB at  Unknown B/s ETA Unknown[download]   0.0% of   87.64MiB at  Unknown B/s ETA Unknown[download]   0.0% of   87.64MiB at  Unknown B/s ETA Unknown[download]   0.0% of   87.64MiB at   12.22MiB/s ETA 00:07  [download]   0.0% of   87.64MiB at  633.05KiB/s ETA 02:21[download]   0.1% of   87.64MiB at  484.63KiB/s ETA 03:05[download]   0.1% of   87.64MiB at  935.62KiB/s ETA 01:35[download]   0.3% of   87.64MiB at    1.20MiB/s ETA 01:12[download]   0.6% of   87.64MiB at    1.70MiB/s ETA 00:51[download]   1.1% of   87.64MiB at    2.62MiB/s ETA 00:33[download]   2.3% of   87.64MiB at    4.25MiB/s ETA 00:20[download]   4.6% of   87.64MiB at    7.14MiB/s ETA 00:11[download]   9.1% of   87.64MiB at   12.12MiB/s ETA 00:06[download]  13.7% of   87.64MiB at   15.94MiB/s ETA 00:04[download]  18.3% of   87.64MiB at   18.61MiB/s ETA 00:03[download]  22.8% of   87.64MiB at   20.99MiB/s ETA 00:03[download]  27.4% of   87.64MiB at   23.02MiB/s ETA 00:02[download]  31.9% of   87.64MiB at   24.60MiB/s ETA 00:02[download]  36.5% of   87.64MiB at   25.33MiB/s ETA 00:02[download]  41.1% of   87.64MiB at   26.02MiB/s ETA 00:01[download]  45.6% of   87.64MiB at   26.97MiB/s ETA 00:01[download]  50.2% of   87.64MiB at   27.77MiB/s ETA 00:01[download]  54.8% of   87.64MiB at   28.45MiB/s ETA 00:01[download]  59.3% of   87.64MiB at   29.54MiB/s ETA 00:01[download]  63.9% of   87.64MiB at   27.68MiB/s ETA 00:01[download]  68.5% of   87.64MiB at   28.59MiB/s ETA 00:00[download]  73.0% of   87.64MiB at   29.16MiB/s ETA 00:00[download]  77.6% of   87.64MiB at   29.61MiB/s ETA 00:00[download]  82.2% of   87.64MiB at   30.11MiB/s ETA 00:00[download]  86.7% of   87.64MiB at   30.11MiB/s ETA 00:00[download]  91.3% of   87.64MiB at   30.56MiB/s ETA 00:00[download]  95.8% of   87.64MiB at   30.32MiB/s ETA 00:00[download] 100.0% of   87.64MiB at   30.45MiB/s ETA 00:00[download] 100% of   87.64MiB in 00:00:03 at 24.51MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/cm0s-st2-4
-[soundcloud] enilylbmessa/cm0s-st2-4: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450702: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450702: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450702: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450702: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450702: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450702: Downloading http_mp3 format info JSON
-[info] 2237450702: Downloading 1 format(s): download
-[download] Sleeping 3.16 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/04 - cm0s - st2.wav
-[download]   0.0% of   16.44MiB at  Unknown B/s ETA Unknown[download]   0.0% of   16.44MiB at  Unknown B/s ETA Unknown[download]   0.0% of   16.44MiB at  Unknown B/s ETA Unknown[download]   0.1% of   16.44MiB at  Unknown B/s ETA Unknown[download]   0.2% of   16.44MiB at    1.16MiB/s ETA 00:14  [download]   0.4% of   16.44MiB at    1.67MiB/s ETA 00:09[download]   0.8% of   16.44MiB at  999.71KiB/s ETA 00:16[download]   1.5% of   16.44MiB at    1.17MiB/s ETA 00:13[download]   3.0% of   16.44MiB at    1.57MiB/s ETA 00:10[download]   6.1% of   16.44MiB at    2.52MiB/s ETA 00:06[download]  12.2% of   16.44MiB at    3.80MiB/s ETA 00:03[download]  24.3% of   16.44MiB at    6.97MiB/s ETA 00:01[download]  48.7% of   16.44MiB at   11.80MiB/s ETA 00:00[download]  73.0% of   16.44MiB at   15.62MiB/s ETA 00:00[download]  97.3% of   16.44MiB at   18.27MiB/s ETA 00:00[download] 100.0% of   16.44MiB at   18.56MiB/s ETA 00:00[download] 100% of   16.44MiB in 00:00:01 at 10.81MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/da_kha-neelps-5
-[soundcloud] enilylbmessa/da_kha-neelps-5: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450684: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450684: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450684: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450684: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450684: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450684: Downloading http_mp3 format info JSON
-[info] 2237450684: Downloading 1 format(s): download
-[download] Sleeping 7.00 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/05 - da_kha - neelps.wav
-[download]   0.0% of   21.61MiB at  Unknown B/s ETA Unknown[download]   0.0% of   21.61MiB at  Unknown B/s ETA Unknown[download]   0.0% of   21.61MiB at    5.46MiB/s ETA 00:03  [download]   0.1% of   21.61MiB at    9.22MiB/s ETA 00:02[download]   0.1% of   21.61MiB at   15.54MiB/s ETA 00:01[download]   0.3% of   21.61MiB at  825.84KiB/s ETA 00:26[download]   0.6% of   21.61MiB at    1.43MiB/s ETA 00:15[download]   1.2% of   21.61MiB at    1.44MiB/s ETA 00:14[download]   2.3% of   21.61MiB at    1.88MiB/s ETA 00:11[download]   4.6% of   21.61MiB at    2.83MiB/s ETA 00:07[download]   9.3% of   21.61MiB at    4.54MiB/s ETA 00:04[download]  18.5% of   21.61MiB at    7.44MiB/s ETA 00:02[download]  37.0% of   21.61MiB at   12.38MiB/s ETA 00:01[download]  55.5% of   21.61MiB at   16.44MiB/s ETA 00:00[download]  74.0% of   21.61MiB at   18.37MiB/s ETA 00:00[download]  92.5% of   21.61MiB at   21.33MiB/s ETA 00:00[download] 100.0% of   21.61MiB at   21.74MiB/s ETA 00:00[download] 100% of   21.61MiB in 00:00:01 at 11.56MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/uvi-arc-6
-[soundcloud] enilylbmessa/uvi-arc-6: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450693: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450693: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450693: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450693: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450693: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450693: Downloading http_mp3 format info JSON
-[info] 2237450693: Downloading 1 format(s): download
-[download] Sleeping 7.70 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/06 - uvi - arc.wav
-[download]   0.0% of   62.98MiB at  Unknown B/s ETA Unknown[download]   0.0% of   62.98MiB at  Unknown B/s ETA Unknown[download]   0.0% of   62.98MiB at  Unknown B/s ETA Unknown[download]   0.0% of   62.98MiB at  Unknown B/s ETA Unknown[download]   0.0% of   62.98MiB at    1.43MiB/s ETA 00:44  [download]   0.1% of   62.98MiB at    2.55MiB/s ETA 00:24[download]   0.2% of   62.98MiB at    1.11MiB/s ETA 00:56[download]   0.4% of   62.98MiB at    1.26MiB/s ETA 00:49[download]   0.8% of   62.98MiB at    1.73MiB/s ETA 00:36[download]   1.6% of   62.98MiB at    2.67MiB/s ETA 00:23[download]   3.2% of   62.98MiB at    4.21MiB/s ETA 00:14[download]   6.4% of   62.98MiB at    7.09MiB/s ETA 00:08[download]  12.7% of   62.98MiB at   10.67MiB/s ETA 00:05[download]  19.1% of   62.98MiB at   13.17MiB/s ETA 00:03[download]  25.4% of   62.98MiB at   15.87MiB/s ETA 00:02[download]  31.8% of   62.98MiB at   17.67MiB/s ETA 00:02[download]  38.1% of   62.98MiB at   18.97MiB/s ETA 00:02[download]  44.5% of   62.98MiB at   20.52MiB/s ETA 00:01[download]  50.8% of   62.98MiB at   21.80MiB/s ETA 00:01[download]  57.2% of   62.98MiB at   22.31MiB/s ETA 00:01[download]  63.5% of   62.98MiB at   23.09MiB/s ETA 00:00[download]  69.9% of   62.98MiB at   24.16MiB/s ETA 00:00[download]  76.2% of   62.98MiB at   24.64MiB/s ETA 00:00[download]  82.6% of   62.98MiB at   25.09MiB/s ETA 00:00[download]  88.9% of   62.98MiB at   25.70MiB/s ETA 00:00[download]  95.3% of   62.98MiB at   26.33MiB/s ETA 00:00[download] 100.0% of   62.98MiB at   26.78MiB/s ETA 00:00[download] 100% of   62.98MiB in 00:00:03 at 20.86MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/shibari-kurt-kobain-died-4-ur-sins-7
-[soundcloud] enilylbmessa/shibari-kurt-kobain-died-4-ur-sins-7: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450699: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450699: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450699: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450699: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450699: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450699: Downloading http_mp3 format info JSON
-[info] 2237450699: Downloading 1 format(s): download
-[download] Sleeping 2.49 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/07 - shibari - kurt kobain died 4 ur sins.wav
-[download]   0.0% of   52.92MiB at  Unknown B/s ETA Unknown[download]   0.0% of   52.92MiB at  Unknown B/s ETA Unknown[download]   0.0% of   52.92MiB at  Unknown B/s ETA Unknown[download]   0.0% of   52.92MiB at   12.80MiB/s ETA 00:04  [download]   0.1% of   52.92MiB at  352.17KiB/s ETA 02:33[download]   0.1% of   52.92MiB at  705.55KiB/s ETA 01:16[download]   0.2% of   52.92MiB at  715.39KiB/s ETA 01:15[download]   0.5% of   52.92MiB at  961.94KiB/s ETA 00:56[download]   0.9% of   52.92MiB at    1.39MiB/s ETA 00:37[download]   1.9% of   52.92MiB at    2.26MiB/s ETA 00:23[download]   3.8% of   52.92MiB at    3.78MiB/s ETA 00:13[download]   7.6% of   52.92MiB at    6.45MiB/s ETA 00:07[download]  15.1% of   52.92MiB at   10.93MiB/s ETA 00:04[download]  22.7% of   52.92MiB at   14.48MiB/s ETA 00:02[download]  30.2% of   52.92MiB at   17.36MiB/s ETA 00:02[download]  37.8% of   52.92MiB at   19.20MiB/s ETA 00:01[download]  45.3% of   52.92MiB at   20.32MiB/s ETA 00:01[download]  52.9% of   52.92MiB at   21.93MiB/s ETA 00:01[download]  60.5% of   52.92MiB at   23.38MiB/s ETA 00:00[download]  68.0% of   52.92MiB at   24.65MiB/s ETA 00:00[download]  75.6% of   52.92MiB at   25.72MiB/s ETA 00:00[download]  83.1% of   52.92MiB at   26.63MiB/s ETA 00:00[download]  90.7% of   52.92MiB at   27.48MiB/s ETA 00:00[download]  98.3% of   52.92MiB at   27.89MiB/s ETA 00:00[download] 100.0% of   52.92MiB at   27.72MiB/s ETA 00:00[download] 100% of   52.92MiB in 00:00:02 at 19.09MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/lucophet-idiot-with-a-mic-8
-[soundcloud] enilylbmessa/lucophet-idiot-with-a-mic-8: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450708: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450708: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450708: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450708: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450708: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450708: Downloading http_mp3 format info JSON
-[info] 2237450708: Downloading 1 format(s): download
-[download] Sleeping 6.84 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/08 - lucophet - idiot with a mic.wav
-[download]   0.0% of   32.03MiB at  Unknown B/s ETA Unknown[download]   0.0% of   32.03MiB at  Unknown B/s ETA Unknown[download]   0.0% of   32.03MiB at  Unknown B/s ETA Unknown[download]   0.0% of   32.03MiB at  Unknown B/s ETA Unknown[download]   0.1% of   32.03MiB at    3.37MiB/s ETA 00:09  [download]   0.2% of   32.03MiB at  854.63KiB/s ETA 00:38[download]   0.4% of   32.03MiB at    1.46MiB/s ETA 00:21[download]   0.8% of   32.03MiB at    1.47MiB/s ETA 00:21[download]   1.6% of   32.03MiB at    1.99MiB/s ETA 00:15[download]   3.1% of   32.03MiB at    2.93MiB/s ETA 00:10[download]   6.2% of   32.03MiB at    4.65MiB/s ETA 00:06[download]  12.5% of   32.03MiB at    7.67MiB/s ETA 00:03[download]  25.0% of   32.03MiB at   12.90MiB/s ETA 00:01[download]  37.5% of   32.03MiB at   16.58MiB/s ETA 00:01[download]  50.0% of   32.03MiB at   19.57MiB/s ETA 00:00[download]  62.4% of   32.03MiB at   22.06MiB/s ETA 00:00[download]  74.9% of   32.03MiB at   23.88MiB/s ETA 00:00[download]  87.4% of   32.03MiB at   24.19MiB/s ETA 00:00[download]  99.9% of   32.03MiB at   22.17MiB/s ETA 00:00[download] 100.0% of   32.03MiB at   22.18MiB/s ETA 00:00[download] 100% of   32.03MiB in 00:00:02 at 12.89MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/acant-bulimia-9
-[soundcloud] enilylbmessa/acant-bulimia-9: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450681: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450681: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450681: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450681: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450681: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450681: Downloading http_mp3 format info JSON
-[info] 2237450681: Downloading 1 format(s): download
-[download] Sleeping 3.63 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/09 - acant - bulimia.wav
-[download]   0.0% of   65.93MiB at  Unknown B/s ETA Unknown[download]   0.0% of   65.93MiB at  Unknown B/s ETA Unknown[download]   0.0% of   65.93MiB at  Unknown B/s ETA Unknown[download]   0.0% of   65.93MiB at  Unknown B/s ETA Unknown[download]   0.0% of   65.93MiB at   24.80MiB/s ETA 00:02  [download]   0.1% of   65.93MiB at    5.19MiB/s ETA 00:12[download]   0.2% of   65.93MiB at    1.40MiB/s ETA 00:47[download]   0.4% of   65.93MiB at    1.45MiB/s ETA 00:45[download]   0.8% of   65.93MiB at    1.90MiB/s ETA 00:34[download]   1.5% of   65.93MiB at    2.84MiB/s ETA 00:22[download]   3.0% of   65.93MiB at    4.51MiB/s ETA 00:14[download]   6.1% of   65.93MiB at    7.33MiB/s ETA 00:08[download]  12.1% of   65.93MiB at   12.19MiB/s ETA 00:04[download]  18.2% of   65.93MiB at   16.08MiB/s ETA 00:03[download]  24.3% of   65.93MiB at   18.39MiB/s ETA 00:02[download]  30.3% of   65.93MiB at   20.07MiB/s ETA 00:02[download]  36.4% of   65.93MiB at   21.42MiB/s ETA 00:01[download]  42.5% of   65.93MiB at   22.78MiB/s ETA 00:01[download]  48.5% of   65.93MiB at   24.07MiB/s ETA 00:01[download]  54.6% of   65.93MiB at   25.08MiB/s ETA 00:01[download]  60.7% of   65.93MiB at   26.17MiB/s ETA 00:00[download]  66.7% of   65.93MiB at   25.82MiB/s ETA 00:00[download]  72.8% of   65.93MiB at   26.54MiB/s ETA 00:00[download]  78.9% of   65.93MiB at   27.21MiB/s ETA 00:00[download]  84.9% of   65.93MiB at   27.83MiB/s ETA 00:00[download]  91.0% of   65.93MiB at   28.44MiB/s ETA 00:00[download]  97.1% of   65.93MiB at   28.78MiB/s ETA 00:00[download] 100.0% of   65.93MiB at   28.81MiB/s ETA 00:00[download] 100% of   65.93MiB in 00:00:03 at 21.07MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/flatstak-worn-out-10
-[soundcloud] enilylbmessa/flatstak-worn-out-10: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450705: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450705: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450705: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450705: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450705: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450705: Downloading http_mp3 format info JSON
-[info] 2237450705: Downloading 1 format(s): download
-[download] Sleeping 2.30 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/10 - flatstak - worn out.wav
-[download]   0.0% of  174.09MiB at  768.33KiB/s ETA 03:53[download]   0.0% of  174.09MiB at    1.77MiB/s ETA 01:38[download]   0.0% of  174.09MiB at    3.56MiB/s ETA 00:49[download]   0.0% of  174.09MiB at    6.82MiB/s ETA 00:25[download]   0.0% of  174.09MiB at   12.72MiB/s ETA 00:13[download]   0.0% of  174.09MiB at    5.55MiB/s ETA 00:31[download]   0.1% of  174.09MiB at    6.53MiB/s ETA 00:26[download]   0.1% of  174.09MiB at    8.68MiB/s ETA 00:20[download]   0.3% of  174.09MiB at   12.49MiB/s ETA 00:13[download]   0.6% of  174.09MiB at   19.88MiB/s ETA 00:08[download]   1.1% of  174.09MiB at    8.44MiB/s ETA 00:20[download]   2.3% of  174.09MiB at   14.87MiB/s ETA 00:11[download]   4.6% of  174.09MiB at   16.12MiB/s ETA 00:10[download]   6.9% of  174.09MiB at   22.93MiB/s ETA 00:07[download]   9.2% of  174.09MiB at   28.39MiB/s ETA 00:05[download]  11.5% of  174.09MiB at   25.13MiB/s ETA 00:06[download]  13.8% of  174.09MiB at   28.78MiB/s ETA 00:05[download]  16.1% of  174.09MiB at   21.49MiB/s ETA 00:06[download]  18.4% of  174.09MiB at   19.76MiB/s ETA 00:07[download]  20.7% of  174.09MiB at   17.13MiB/s ETA 00:08[download]  23.0% of  174.09MiB at   15.31MiB/s ETA 00:08[download]  25.3% of  174.09MiB at   15.16MiB/s ETA 00:08[download]  27.6% of  174.09MiB at   15.12MiB/s ETA 00:08[download]  29.9% of  174.09MiB at   13.96MiB/s ETA 00:08[download]  32.2% of  174.09MiB at   12.54MiB/s ETA 00:09[download]  34.5% of  174.09MiB at   11.75MiB/s ETA 00:09[download]  36.8% of  174.09MiB at   11.56MiB/s ETA 00:09[download]  39.1% of  174.09MiB at   10.86MiB/s ETA 00:09[download]  41.4% of  174.09MiB at   10.81MiB/s ETA 00:09[download]  43.7% of  174.09MiB at   11.07MiB/s ETA 00:08[download]  46.0% of  174.09MiB at   11.46MiB/s ETA 00:08[download]  48.3% of  174.09MiB at   11.90MiB/s ETA 00:07[download]  50.5% of  174.09MiB at   12.36MiB/s ETA 00:06[download]  52.8% of  174.09MiB at   12.81MiB/s ETA 00:06[download]  55.1% of  174.09MiB at   13.27MiB/s ETA 00:05[download]  57.4% of  174.09MiB at   13.74MiB/s ETA 00:05[download]  59.7% of  174.09MiB at   14.20MiB/s ETA 00:04[download]  62.0% of  174.09MiB at   14.66MiB/s ETA 00:04[download]  64.3% of  174.09MiB at   15.07MiB/s ETA 00:04[download]  66.6% of  174.09MiB at   15.53MiB/s ETA 00:03[download]  68.9% of  174.09MiB at   15.98MiB/s ETA 00:03[download]  71.2% of  174.09MiB at   16.43MiB/s ETA 00:03[download]  73.5% of  174.09MiB at   16.88MiB/s ETA 00:02[download]  75.8% of  174.09MiB at   17.32MiB/s ETA 00:02[download]  78.1% of  174.09MiB at   17.76MiB/s ETA 00:02[download]  80.4% of  174.09MiB at   18.20MiB/s ETA 00:01[download]  82.7% of  174.09MiB at   18.63MiB/s ETA 00:01[download]  85.0% of  174.09MiB at   19.06MiB/s ETA 00:01[download]  87.3% of  174.09MiB at   19.46MiB/s ETA 00:01[download]  89.6% of  174.09MiB at   19.88MiB/s ETA 00:00[download]  91.9% of  174.09MiB at   20.30MiB/s ETA 00:00[download]  94.2% of  174.09MiB at   20.66MiB/s ETA 00:00[download]  96.5% of  174.09MiB at   21.10MiB/s ETA 00:00[download]  98.8% of  174.09MiB at   21.51MiB/s ETA 00:00[download] 100.0% of  174.09MiB at   21.69MiB/s ETA 00:00[download] 100% of  174.09MiB in 00:00:08 at 20.46MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/metaconcept-epic-11
-[soundcloud] enilylbmessa/metaconcept-epic-11: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450696: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450696: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450696: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450696: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450696: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2237450696: Downloading http_mp3 format info JSON
-[info] 2237450696: Downloading 1 format(s): download
-[download] Sleeping 5.71 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.103/11 - metaconcept - epic.wav
-[download]   0.0% of   89.46MiB at  Unknown B/s ETA Unknown[download]   0.0% of   89.46MiB at  Unknown B/s ETA Unknown[download]   0.0% of   89.46MiB at    6.62MiB/s ETA 00:13  [download]   0.0% of   89.46MiB at   11.27MiB/s ETA 00:07[download]   0.0% of   89.46MiB at  362.35KiB/s ETA 04:12[download]   0.1% of   89.46MiB at  711.35KiB/s ETA 02:08[download]   0.1% of   89.46MiB at  716.64KiB/s ETA 02:07[download]   0.3% of   89.46MiB at  968.89KiB/s ETA 01:34[download]   0.6% of   89.46MiB at    1.41MiB/s ETA 01:02[download]   1.1% of   89.46MiB at    2.25MiB/s ETA 00:39[download]   2.2% of   89.46MiB at    3.75MiB/s ETA 00:23[download]   4.5% of   89.46MiB at    6.40MiB/s ETA 00:13[download]   8.9% of   89.46MiB at   10.94MiB/s ETA 00:07[download]  13.4% of   89.46MiB at   14.50MiB/s ETA 00:05[download]  17.9% of   89.46MiB at   16.69MiB/s ETA 00:04[download]  22.4% of   89.46MiB at   19.29MiB/s ETA 00:03[download]  26.8% of   89.46MiB at   21.56MiB/s ETA 00:03[download]  31.3% of   89.46MiB at   23.07MiB/s ETA 00:02[download]  35.8% of   89.46MiB at   24.49MiB/s ETA 00:02[download]  40.2% of   89.46MiB at   25.00MiB/s ETA 00:02[download]  44.7% of   89.46MiB at   26.07MiB/s ETA 00:01[download]  49.2% of   89.46MiB at   27.05MiB/s ETA 00:01[download]  53.7% of   89.46MiB at   27.89MiB/s ETA 00:01[download]  58.1% of   89.46MiB at   28.58MiB/s ETA 00:01[download]  62.6% of   89.46MiB at   29.14MiB/s ETA 00:01[download]  67.1% of   89.46MiB at   29.83MiB/s ETA 00:00[download]  71.5% of   89.46MiB at   30.46MiB/s ETA 00:00[download]  76.0% of   89.46MiB at   30.76MiB/s ETA 00:00[download]  80.5% of   89.46MiB at   31.27MiB/s ETA 00:00[download]  85.0% of   89.46MiB at   31.68MiB/s ETA 00:00[download]  89.4% of   89.46MiB at   31.18MiB/s ETA 00:00[download]  93.9% of   89.46MiB at   32.34MiB/s ETA 00:00[download]  98.4% of   89.46MiB at   32.87MiB/s ETA 00:00[download] 100.0% of   89.46MiB at   32.79MiB/s ETA 00:00[download] 100% of   89.46MiB in 00:00:03 at 26.33MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/yuklij-gary-gatum-1
-
-📀 [albums] Damaged Goods vol.102  (9 tracks)
-[soundcloud] enilylbmessa/yuklij-gary-gatum-1: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143335: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143335: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143335: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143335: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143335: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143335: Downloading http_mp3 format info JSON
-[info] 2209143335: Downloading 1 format(s): download
-[download] Sleeping 4.59 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/01 - yuklij - gary gatum.wav
-[download]   0.0% of   15.05MiB at  Unknown B/s ETA Unknown[download]   0.0% of   15.05MiB at  Unknown B/s ETA Unknown[download]   0.0% of   15.05MiB at  Unknown B/s ETA Unknown[download]   0.1% of   15.05MiB at   13.19MiB/s ETA 00:01  [download]   0.2% of   15.05MiB at   10.26MiB/s ETA 00:01[download]   0.4% of   15.05MiB at    4.90MiB/s ETA 00:03[download]   0.8% of   15.05MiB at    1.26MiB/s ETA 00:11[download]   1.7% of   15.05MiB at    1.38MiB/s ETA 00:10[download]   3.3% of   15.05MiB at    1.86MiB/s ETA 00:07[download]   6.6% of   15.05MiB at    2.83MiB/s ETA 00:04[download]  13.3% of   15.05MiB at    4.51MiB/s ETA 00:02[download]  26.6% of   15.05MiB at    7.47MiB/s ETA 00:01[download]  53.1% of   15.05MiB at   12.65MiB/s ETA 00:00[download]  79.7% of   15.05MiB at   16.22MiB/s ETA 00:00[download] 100.0% of   15.05MiB at   18.48MiB/s ETA 00:00[download] 100% of   15.05MiB in 00:00:01 at 10.34MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/distope-neuralink-adventures-2
-[soundcloud] enilylbmessa/distope-neuralink-adventures-2: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143332: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143332: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143332: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143332: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143332: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143332: Downloading http_mp3 format info JSON
-[info] 2209143332: Downloading 1 format(s): download
-[download] Sleeping 5.92 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/02 - distope - neuralink adventures.wav
-[download]   0.0% of   53.22MiB at  Unknown B/s ETA Unknown[download]   0.0% of   53.22MiB at  Unknown B/s ETA Unknown[download]   0.0% of   53.22MiB at    6.50MiB/s ETA 00:08  [download]   0.0% of   53.22MiB at   10.36MiB/s ETA 00:05[download]   0.1% of   53.22MiB at  344.24KiB/s ETA 02:38[download]   0.1% of   53.22MiB at  693.63KiB/s ETA 01:18[download]   0.2% of   53.22MiB at  698.48KiB/s ETA 01:17[download]   0.5% of   53.22MiB at  925.26KiB/s ETA 00:58[download]   0.9% of   53.22MiB at    1.36MiB/s ETA 00:38[download]   1.9% of   53.22MiB at    2.20MiB/s ETA 00:23[download]   3.8% of   53.22MiB at    3.68MiB/s ETA 00:13[download]   7.5% of   53.22MiB at    6.24MiB/s ETA 00:07[download]  15.0% of   53.22MiB at   10.86MiB/s ETA 00:04[download]  22.5% of   53.22MiB at   14.00MiB/s ETA 00:02[download]  30.1% of   53.22MiB at   16.80MiB/s ETA 00:02[download]  37.6% of   53.22MiB at   18.72MiB/s ETA 00:01[download]  45.1% of   53.22MiB at   21.07MiB/s ETA 00:01[download]  52.6% of   53.22MiB at   21.48MiB/s ETA 00:01[download]  60.1% of   53.22MiB at   23.00MiB/s ETA 00:00[download]  67.6% of   53.22MiB at   24.23MiB/s ETA 00:00[download]  75.2% of   53.22MiB at   25.23MiB/s ETA 00:00[download]  82.7% of   53.22MiB at   26.14MiB/s ETA 00:00[download]  90.2% of   53.22MiB at   26.98MiB/s ETA 00:00[download]  97.7% of   53.22MiB at   27.78MiB/s ETA 00:00[download] 100.0% of   53.22MiB at   28.11MiB/s ETA 00:00[download] 100% of   53.22MiB in 00:00:02 at 20.13MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/da_kha-nelz-3
-[soundcloud] enilylbmessa/da_kha-nelz-3: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143317: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143317: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143317: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143317: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143317: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143317: Downloading http_mp3 format info JSON
-[info] 2209143317: Downloading 1 format(s): download
-[download] Sleeping 3.78 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/03 - da_kha - nelz.wav
-[download]   0.0% of   44.92MiB at  Unknown B/s ETA Unknown[download]   0.0% of   44.92MiB at  Unknown B/s ETA Unknown[download]   0.0% of   44.92MiB at  Unknown B/s ETA Unknown[download]   0.0% of   44.92MiB at   14.04MiB/s ETA 00:03  [download]   0.1% of   44.92MiB at   23.20MiB/s ETA 00:01[download]   0.1% of   44.92MiB at    5.61MiB/s ETA 00:08[download]   0.3% of   44.92MiB at    1.65MiB/s ETA 00:27[download]   0.6% of   44.92MiB at    1.61MiB/s ETA 00:27[download]   1.1% of   44.92MiB at    2.07MiB/s ETA 00:21[download]   2.2% of   44.92MiB at    3.03MiB/s ETA 00:14[download]   4.4% of   44.92MiB at    4.76MiB/s ETA 00:09[download]   8.9% of   44.92MiB at    7.84MiB/s ETA 00:05[download]  17.8% of   44.92MiB at   12.89MiB/s ETA 00:02[download]  26.7% of   44.92MiB at   17.12MiB/s ETA 00:01[download]  35.6% of   44.92MiB at   20.02MiB/s ETA 00:01[download]  44.5% of   44.92MiB at   22.20MiB/s ETA 00:01[download]  53.4% of   44.92MiB at   24.05MiB/s ETA 00:00[download]  62.3% of   44.92MiB at   25.70MiB/s ETA 00:00[download]  71.2% of   44.92MiB at   27.12MiB/s ETA 00:00[download]  80.1% of   44.92MiB at   28.41MiB/s ETA 00:00[download]  89.0% of   44.92MiB at   29.32MiB/s ETA 00:00[download]  97.9% of   44.92MiB at   30.32MiB/s ETA 00:00[download] 100.0% of   44.92MiB at   29.79MiB/s ETA 00:00[download] 100% of   44.92MiB in 00:00:02 at 19.93MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/metaconcept-setbacks-4
-[soundcloud] enilylbmessa/metaconcept-setbacks-4: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143326: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143326: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143326: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143326: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143326: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143326: Downloading http_mp3 format info JSON
-[info] 2209143326: Downloading 1 format(s): download
-[download] Sleeping 5.79 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/04 - metaconcept - setbacks.wav
-[download]   0.0% of   50.76MiB at  Unknown B/s ETA Unknown[download]   0.0% of   50.76MiB at  Unknown B/s ETA Unknown[download]   0.0% of   50.76MiB at    6.77MiB/s ETA 00:07  [download]   0.0% of   50.76MiB at   10.77MiB/s ETA 00:04[download]   0.1% of   50.76MiB at    5.62MiB/s ETA 00:09[download]   0.1% of   50.76MiB at  616.46KiB/s ETA 01:24[download]   0.2% of   50.76MiB at  700.51KiB/s ETA 01:14[download]   0.5% of   50.76MiB at  950.00KiB/s ETA 00:54[download]   1.0% of   50.76MiB at    1.74MiB/s ETA 00:28[download]   2.0% of   50.76MiB at    2.72MiB/s ETA 00:18[download]   3.9% of   50.76MiB at    4.38MiB/s ETA 00:11[download]   7.9% of   50.76MiB at    7.24MiB/s ETA 00:06[download]  15.8% of   50.76MiB at   12.09MiB/s ETA 00:03[download]  23.6% of   50.76MiB at   15.86MiB/s ETA 00:02[download]  31.5% of   50.76MiB at   18.87MiB/s ETA 00:01[download]  39.4% of   50.76MiB at   21.14MiB/s ETA 00:01[download]  47.3% of   50.76MiB at   22.20MiB/s ETA 00:01[download]  55.2% of   50.76MiB at   23.86MiB/s ETA 00:00[download]  63.0% of   50.76MiB at   24.04MiB/s ETA 00:00[download]  70.9% of   50.76MiB at   25.13MiB/s ETA 00:00[download]  78.8% of   50.76MiB at   26.23MiB/s ETA 00:00[download]  86.7% of   50.76MiB at   27.18MiB/s ETA 00:00[download]  94.6% of   50.76MiB at   28.13MiB/s ETA 00:00[download] 100.0% of   50.76MiB at   27.98MiB/s ETA 00:00[download] 100% of   50.76MiB in 00:00:02 at 20.25MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/shibari-two-notions-5
-[soundcloud] enilylbmessa/shibari-two-notions-5: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143338: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143338: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143338: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143338: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143338: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143338: Downloading http_mp3 format info JSON
-[info] 2209143338: Downloading 1 format(s): download
-[download] Sleeping 7.57 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/05 - shibari - two notions.wav
-[download]   0.0% of   54.85MiB at  Unknown B/s ETA Unknown[download]   0.0% of   54.85MiB at  Unknown B/s ETA Unknown[download]   0.0% of   54.85MiB at    6.37MiB/s ETA 00:08  [download]   0.0% of   54.85MiB at   10.58MiB/s ETA 00:05[download]   0.1% of   54.85MiB at  366.84KiB/s ETA 02:33[download]   0.1% of   54.85MiB at  720.72KiB/s ETA 01:17[download]   0.2% of   54.85MiB at  715.70KiB/s ETA 01:18[download]   0.5% of   54.85MiB at  963.19KiB/s ETA 00:58[download]   0.9% of   54.85MiB at    1.43MiB/s ETA 00:37[download]   1.8% of   54.85MiB at    2.29MiB/s ETA 00:23[download]   3.6% of   54.85MiB at    3.80MiB/s ETA 00:13[download]   7.3% of   54.85MiB at    6.46MiB/s ETA 00:07[download]  14.6% of   54.85MiB at   11.08MiB/s ETA 00:04[download]  21.9% of   54.85MiB at   14.85MiB/s ETA 00:02[download]  29.2% of   54.85MiB at   17.24MiB/s ETA 00:02[download]  36.5% of   54.85MiB at   19.92MiB/s ETA 00:01[download]  43.8% of   54.85MiB at   21.56MiB/s ETA 00:01[download]  51.0% of   54.85MiB at   15.77MiB/s ETA 00:01[download]  58.3% of   54.85MiB at   17.19MiB/s ETA 00:01[download]  65.6% of   54.85MiB at   19.16MiB/s ETA 00:00[download]  72.9% of   54.85MiB at   20.52MiB/s ETA 00:00[download]  80.2% of   54.85MiB at   21.51MiB/s ETA 00:00[download]  87.5% of   54.85MiB at   22.41MiB/s ETA 00:00[download]  94.8% of   54.85MiB at   22.98MiB/s ETA 00:00[download] 100.0% of   54.85MiB at   19.46MiB/s ETA 00:00[download] 100% of   54.85MiB in 00:00:03 at 14.72MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/acant-plasmodesmata-6
-[soundcloud] enilylbmessa/acant-plasmodesmata-6: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143323: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143323: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143323: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143323: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143323: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143323: Downloading http_mp3 format info JSON
-[info] 2209143323: Downloading 1 format(s): download
-[download] Sleeping 2.68 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/06 - acant - plasmodesmata.wav
-[download]   0.0% of   56.79MiB at  Unknown B/s ETA Unknown[download]   0.0% of   56.79MiB at  Unknown B/s ETA Unknown[download]   0.0% of   56.79MiB at  Unknown B/s ETA 00:08  [download]   0.0% of   56.79MiB at   11.08MiB/s ETA 00:05[download]   0.1% of   56.79MiB at  576.06KiB/s ETA 01:40[download]   0.1% of   56.79MiB at  982.63KiB/s ETA 00:59[download]   0.2% of   56.79MiB at  869.54KiB/s ETA 01:06[download]   0.4% of   56.79MiB at    1.06MiB/s ETA 00:53[download]   0.9% of   56.79MiB at    1.53MiB/s ETA 00:36[download]   1.8% of   56.79MiB at    2.44MiB/s ETA 00:22[download]   3.5% of   56.79MiB at    3.91MiB/s ETA 00:14[download]   7.0% of   56.79MiB at    6.49MiB/s ETA 00:08[download]  14.1% of   56.79MiB at   11.25MiB/s ETA 00:04[download]  21.1% of   56.79MiB at   14.89MiB/s ETA 00:03[download]  28.2% of   56.79MiB at   17.79MiB/s ETA 00:02[download]  35.2% of   56.79MiB at   20.38MiB/s ETA 00:01[download]  42.3% of   56.79MiB at   22.55MiB/s ETA 00:01[download]  49.3% of   56.79MiB at   24.02MiB/s ETA 00:01[download]  56.3% of   56.79MiB at   25.65MiB/s ETA 00:00[download]  63.4% of   56.79MiB at   26.83MiB/s ETA 00:00[download]  70.4% of   56.79MiB at   27.37MiB/s ETA 00:00[download]  77.5% of   56.79MiB at   28.62MiB/s ETA 00:00[download]  84.5% of   56.79MiB at   28.73MiB/s ETA 00:00[download]  91.6% of   56.79MiB at   29.46MiB/s ETA 00:00[download]  98.6% of   56.79MiB at   29.56MiB/s ETA 00:00[download] 100.0% of   56.79MiB at   29.38MiB/s ETA 00:00[download] 100% of   56.79MiB in 00:00:02 at 22.32MiB/s  
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/rue-20-7
-[soundcloud] enilylbmessa/rue-20-7: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143329: Downloading original download format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143329: Checking original download format availability
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143329: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143329: Downloading hls_aac format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143329: Downloading hls_mp3 format info JSON
-[soundcloud] Sleeping 1.5 seconds ...
-[soundcloud] 2209143329: Downloading http_mp3 format info JSON
-[info] 2209143329: Downloading 1 format(s): download
-[download] Sleeping 7.73 seconds ...
-[download] Destination: backup/enilylbmessa/albums/Damaged Goods vol.102/07 - &rue - 20.wav
-[download]   0.0% of   20.17MiB at  Unknown B/s ETA Unknown[download]   0.0% of   20.17MiB at  Unknown B/s ETA Unknown[download]   0.0% of   20.17MiB at  Unknown B/s ETA Unknown[download]   0.1% of   20.17MiB at   11.39MiB/s ETA 00:01  [download]   0.2% of   20.17MiB at    1.36MiB/s ETA 00:14[download]   0.3% of   20.17MiB at    1.90MiB/s ETA 00:10[download]   0.6% of   20.17MiB at    1.07MiB/s ETA 00:18[download]   1.2% of   20.17MiB at    1.19MiB/s ETA 00:16[download]   2.5% of   20.17MiB at    1.63MiB/s ETA 00:12[download]   5.0% of   20.17MiB at    2.59MiB/s ETA 00:07[download]   9.9% of   20.17MiB at    4.25MiB/s ETA 00:04[download]  19.8% of   20.17MiB at    6.59MiB/s ETA 00:02[download]  39.7% of   20.17MiB at   10.88MiB/s ETA 00:01[download]  59.5% of   20.17MiB at   13.63MiB/s ETA 00:00[download]  79.3% of   20.17MiB at   15.15MiB/s ETA 00:00[download]  99.2% of   20.17MiB at   16.65MiB/s ETA 00:00[download] 100.0% of   20.17MiB at   16.75MiB/s ETA 00:00[download] 100% of   20.17MiB in 00:00:02 at 9.91MiB/s   
-[soundcloud] Extracting URL: https://soundcloud.com/enilylbmessa/ottoman-uhaha-8
-[soundcloud] enilylbmessa/ottoman-uhaha-8: Downloading info JSON
-Extracting cookies from firefox
-Extracted 391 cookies from firefox
-[soundcloud] Sleeping 1.5 seconds ...
