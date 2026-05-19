@@ -62,17 +62,42 @@ grab a fresh one the same way.
 
 ## Run
 
+Three modes are available:
+
 ```bash
+# (default) Try to grab the uploader's ORIGINAL file (WAV/FLAC/AIFF/MP3) via
+# the public API. Only works for tracks where the uploader ticked
+# "enable downloads". Slow (heavily rate-limited).
 python backup.py
+
+# Streams-only: skip the originals endpoint entirely. Grabs every track at
+# streaming quality. Much faster.
+#   - 256 kbps AAC if the account is Go+
+#   - 128 kbps AAC/MP3 otherwise
+python backup.py --streams-only
+
+# Originals-api: use the SoundCloud OWNER-ONLY endpoint to fetch the original
+# master file (FLAC/WAV/AIFF/MP3) for EVERY track on the account — even
+# tracks where the uploader didn't tick "enable downloads".
+# REQUIRES that you own the account (logged-in user == track uploader).
+python backup.py --originals-api
 ```
 
-Re-running is safe — already-downloaded tracks and cover arts are skipped.
+**Recommended workflow for an account you own:**
+
+```bash
+python backup.py --originals-api        # grab original masters for everything
+python backup.py --streams-only         # (optional) fill in any gaps
+```
+
+Re-running is safe — existing files are skipped (matched by base filename
+regardless of extension).
 
 ## Notes
 
-- Original WAV / FLAC / AIFF is only available for tracks where the uploader
-  ticked “enable downloads”. Everything else falls back to the highest
-  streaming quality (256 kbps AAC if your account is Go+, else 128 kbps MP3).
+- Original WAV / FLAC / AIFF is only available in default mode and only for
+  tracks where the uploader ticked “enable downloads”. Use `--streams-only`
+  to grab everything else at streaming quality.
 - Playlists are intentionally skipped — only releases that appear on the
   artist’s `/albums` page are treated as collections.
 - Folder classification (`albums` / `eps` / `compilations`) follows the
