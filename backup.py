@@ -225,11 +225,20 @@ def process_album(album_url: str, artist_dir: Path) -> set[int]:
     entries = [e for e in (info.get("entries") or []) if e]
     print(f"\n📀 [{kind}] {title}  ({len(entries)} tracks)")
 
-    artwork = info.get("thumbnail")
-    if not artwork:
-        thumbs = info.get("thumbnails") or []
+    # SoundCloud never populates `thumbnail` on the playlist/album object itself —
+    # only on individual track entries. Grab from the album info first (just in
+    # case), then fall back to the highest-quality thumbnail from the first entry.
+    def best_thumbnail(obj: dict) -> str | None:
+        thumbs = obj.get("thumbnails") or []
         if thumbs:
-            artwork = thumbs[-1].get("url")
+            # prefer the 'original' variant, else pick the last (largest) one
+            orig = next((t["url"] for t in thumbs if t.get("id") == "original"), None)
+            return orig or thumbs[-1].get("url")
+        return obj.get("thumbnail")
+
+    artwork = best_thumbnail(info)
+    if not artwork and entries:
+        artwork = best_thumbnail(entries[0])
     download_artwork(artwork, folder / "cover.jpg")
 
     track_ids: set[int] = set()
